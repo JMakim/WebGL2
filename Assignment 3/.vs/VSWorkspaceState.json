@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Common",
+    "\\Common\\js"
   ],
   "SelectedNode": "\\Assignment2.html",
   "PreviewInSolutionExplorer": false
